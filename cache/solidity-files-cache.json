@@ -1,1 +1,300 @@
-{"_format":"","paths":{"artifacts":"out","build_infos":"out/build-info","sources":"src","tests":"test","scripts":"script","libraries":["lib"]},"files":{"lib/forge-std/src/Base.sol":{"lastModificationDate":1731682261000,"contentHash":"ee13c050b1914464f1d3f90cde90204b","sourceName":"lib/forge-std/src/Base.sol","imports":["lib/forge-std/src/StdStorage.sol","lib/forge-std/src/Vm.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"CommonBase":{"0.8.20":{"default":{"path":"Base.sol/CommonBase.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"Base.sol/CommonBase.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"ScriptBase":{"0.8.20":{"default":{"path":"Base.sol/ScriptBase.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"Base.sol/ScriptBase.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"TestBase":{"0.8.20":{"default":{"path":"Base.sol/TestBase.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"Base.sol/TestBase.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/Script.sol":{"lastModificationDate":1731682261000,"contentHash":"ba325c778a7da8a21c2136aa32763c14","sourceName":"lib/forge-std/src/Script.sol","imports":["lib/forge-std/src/Base.sol","lib/forge-std/src/StdChains.sol","lib/forge-std/src/StdCheats.sol","lib/forge-std/src/StdJson.sol","lib/forge-std/src/StdMath.sol","lib/forge-std/src/StdStorage.sol","lib/forge-std/src/StdStyle.sol","lib/forge-std/src/StdUtils.sol","lib/forge-std/src/Vm.sol","lib/forge-std/src/console.sol","lib/forge-std/src/console2.sol","lib/forge-std/src/interfaces/IERC165.sol","lib/forge-std/src/interfaces/IERC20.sol","lib/forge-std/src/interfaces/IERC721.sol","lib/forge-std/src/interfaces/IMulticall3.sol","lib/forge-std/src/mocks/MockERC20.sol","lib/forge-std/src/mocks/MockERC721.sol","lib/forge-std/src/safeconsole.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"Script":{"0.8.20":{"default":{"path":"Script.sol/Script.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"Script.sol/Script.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/StdAssertions.sol":{"lastModificationDate":1731682261000,"contentHash":"25b77f9806b64d497b8a46aeb8e5f6f0","sourceName":"lib/forge-std/src/StdAssertions.sol","imports":["lib/forge-std/src/Vm.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"StdAssertions":{"0.8.20":{"default":{"path":"StdAssertions.sol/StdAssertions.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"src/StdAssertions.sol/StdAssertions.json","build_id":"7d9513b2db071d394162d868f12d1c26"}}}},"seenByCompiler":true},"lib/forge-std/src/StdChains.sol":{"lastModificationDate":1731682261000,"contentHash":"b039727c96bb3d5b9a59448fd16b1e0f","sourceName":"lib/forge-std/src/StdChains.sol","imports":["lib/forge-std/src/Vm.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"StdChains":{"0.8.20":{"default":{"path":"StdChains.sol/StdChains.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdChains.sol/StdChains.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/StdCheats.sol":{"lastModificationDate":1731682261000,"contentHash":"96c712134b63f85d00461749d0c1611c","sourceName":"lib/forge-std/src/StdCheats.sol","imports":["lib/forge-std/src/StdStorage.sol","lib/forge-std/src/Vm.sol","lib/forge-std/src/console.sol","lib/forge-std/src/console2.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"StdCheats":{"0.8.20":{"default":{"path":"StdCheats.sol/StdCheats.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdCheats.sol/StdCheats.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"StdCheatsSafe":{"0.8.20":{"default":{"path":"StdCheats.sol/StdCheatsSafe.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdCheats.sol/StdCheatsSafe.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/StdError.sol":{"lastModificationDate":1731682261000,"contentHash":"64c896e1276a291776e5ea5aecb3870a","sourceName":"lib/forge-std/src/StdError.sol","imports":[],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"stdError":{"0.8.20":{"default":{"path":"StdError.sol/stdError.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"src/StdError.sol/stdError.json","build_id":"7d9513b2db071d394162d868f12d1c26"}}}},"seenByCompiler":true},"lib/forge-std/src/StdInvariant.sol":{"lastModificationDate":1731682261000,"contentHash":"f16837d0e7cb829544ae1f1319ea7643","sourceName":"lib/forge-std/src/StdInvariant.sol","imports":[],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"StdInvariant":{"0.8.20":{"default":{"path":"StdInvariant.sol/StdInvariant.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"src/StdInvariant.sol/StdInvariant.json","build_id":"7d9513b2db071d394162d868f12d1c26"}}}},"seenByCompiler":true},"lib/forge-std/src/StdJson.sol":{"lastModificationDate":1731682261000,"contentHash":"02209da5708eaee03e24a9c24a687370","sourceName":"lib/forge-std/src/StdJson.sol","imports":["lib/forge-std/src/Vm.sol"],"versionRequirement":">=0.6.0, <0.9.0","artifacts":{"stdJson":{"0.8.20":{"default":{"path":"StdJson.sol/stdJson.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdJson.sol/stdJson.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/StdMath.sol":{"lastModificationDate":1731682261000,"contentHash":"9da8f453eba6bb98f3d75bc6822bfb29","sourceName":"lib/forge-std/src/StdMath.sol","imports":[],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"stdMath":{"0.8.20":{"default":{"path":"StdMath.sol/stdMath.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdMath.sol/stdMath.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/StdStorage.sol":{"lastModificationDate":1731682261000,"contentHash":"ce68f6e336944f16d31351a47d0b19b8","sourceName":"lib/forge-std/src/StdStorage.sol","imports":["lib/forge-std/src/Vm.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"stdStorage":{"0.8.20":{"default":{"path":"StdStorage.sol/stdStorage.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdStorage.sol/stdStorage.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"stdStorageSafe":{"0.8.20":{"default":{"path":"StdStorage.sol/stdStorageSafe.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdStorage.sol/stdStorageSafe.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/StdStyle.sol":{"lastModificationDate":1731682261000,"contentHash":"6281165a12aa639705c691fccefd855e","sourceName":"lib/forge-std/src/StdStyle.sol","imports":["lib/forge-std/src/Vm.sol"],"versionRequirement":">=0.4.22, <0.9.0","artifacts":{"StdStyle":{"0.8.20":{"default":{"path":"StdStyle.sol/StdStyle.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdStyle.sol/StdStyle.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/StdToml.sol":{"lastModificationDate":1731682261000,"contentHash":"4bce85a4c60f2c073e651ee8140bcb4d","sourceName":"lib/forge-std/src/StdToml.sol","imports":["lib/forge-std/src/Vm.sol"],"versionRequirement":">=0.6.0, <0.9.0","artifacts":{"stdToml":{"0.8.20":{"default":{"path":"StdToml.sol/stdToml.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"src/StdToml.sol/stdToml.json","build_id":"7d9513b2db071d394162d868f12d1c26"}}}},"seenByCompiler":true},"lib/forge-std/src/StdUtils.sol":{"lastModificationDate":1731682261000,"contentHash":"b50717f17f251a2a96a5884c90add7bf","sourceName":"lib/forge-std/src/StdUtils.sol","imports":["lib/forge-std/src/Vm.sol","lib/forge-std/src/interfaces/IERC165.sol","lib/forge-std/src/interfaces/IERC20.sol","lib/forge-std/src/interfaces/IERC721.sol","lib/forge-std/src/interfaces/IMulticall3.sol","lib/forge-std/src/mocks/MockERC20.sol","lib/forge-std/src/mocks/MockERC721.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"StdUtils":{"0.8.20":{"default":{"path":"StdUtils.sol/StdUtils.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"StdUtils.sol/StdUtils.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/Test.sol":{"lastModificationDate":1731682261000,"contentHash":"b6f15605355fc8c421fe42a90f94bf32","sourceName":"lib/forge-std/src/Test.sol","imports":["lib/forge-std/src/Base.sol","lib/forge-std/src/StdAssertions.sol","lib/forge-std/src/StdChains.sol","lib/forge-std/src/StdCheats.sol","lib/forge-std/src/StdError.sol","lib/forge-std/src/StdInvariant.sol","lib/forge-std/src/StdJson.sol","lib/forge-std/src/StdMath.sol","lib/forge-std/src/StdStorage.sol","lib/forge-std/src/StdStyle.sol","lib/forge-std/src/StdToml.sol","lib/forge-std/src/StdUtils.sol","lib/forge-std/src/Vm.sol","lib/forge-std/src/console.sol","lib/forge-std/src/console2.sol","lib/forge-std/src/interfaces/IERC165.sol","lib/forge-std/src/interfaces/IERC20.sol","lib/forge-std/src/interfaces/IERC721.sol","lib/forge-std/src/interfaces/IMulticall3.sol","lib/forge-std/src/mocks/MockERC20.sol","lib/forge-std/src/mocks/MockERC721.sol","lib/forge-std/src/safeconsole.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"Test":{"0.8.20":{"default":{"path":"Test.sol/Test.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"src/Test.sol/Test.json","build_id":"7d9513b2db071d394162d868f12d1c26"}}}},"seenByCompiler":true},"lib/forge-std/src/Vm.sol":{"lastModificationDate":1731682261000,"contentHash":"707e31ca7be04756b2a1b853d9c110ac","sourceName":"lib/forge-std/src/Vm.sol","imports":[],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"Vm":{"0.8.20":{"default":{"path":"Vm.sol/Vm.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"Vm.sol/Vm.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"VmSafe":{"0.8.20":{"default":{"path":"Vm.sol/VmSafe.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"Vm.sol/VmSafe.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/console.sol":{"lastModificationDate":1731682261000,"contentHash":"ce19a9e49945b42118379ff99d853c05","sourceName":"lib/forge-std/src/console.sol","imports":[],"versionRequirement":">=0.4.22, <0.9.0","artifacts":{"console":{"0.8.20":{"default":{"path":"console.sol/console.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"console.sol/console.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/console2.sol":{"lastModificationDate":1731682261000,"contentHash":"f65ad21034b111e70fb5342d5771efcd","sourceName":"lib/forge-std/src/console2.sol","imports":["lib/forge-std/src/console.sol"],"versionRequirement":">=0.4.22, <0.9.0","artifacts":{},"seenByCompiler":true},"lib/forge-std/src/interfaces/IERC165.sol":{"lastModificationDate":1731682261000,"contentHash":"90fe5e2e3ed432d6f3b408e7c9e8a739","sourceName":"lib/forge-std/src/interfaces/IERC165.sol","imports":[],"versionRequirement":">=0.6.2","artifacts":{"IERC165":{"0.8.20":{"default":{"path":"IERC165.sol/IERC165.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"IERC165.sol/IERC165.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/interfaces/IERC20.sol":{"lastModificationDate":1731682261000,"contentHash":"8099161d518e5862a76750349d58e801","sourceName":"lib/forge-std/src/interfaces/IERC20.sol","imports":[],"versionRequirement":">=0.6.2","artifacts":{"IERC20":{"0.8.20":{"default":{"path":"IERC20.sol/IERC20.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"IERC20.sol/IERC20.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/interfaces/IERC721.sol":{"lastModificationDate":1731682261000,"contentHash":"efc26e7f9a2f76b68088c8760ceae2dc","sourceName":"lib/forge-std/src/interfaces/IERC721.sol","imports":["lib/forge-std/src/interfaces/IERC165.sol"],"versionRequirement":">=0.6.2","artifacts":{"IERC721":{"0.8.20":{"default":{"path":"IERC721.sol/IERC721.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"IERC721.sol/IERC721.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"IERC721Enumerable":{"0.8.20":{"default":{"path":"IERC721.sol/IERC721Enumerable.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"IERC721.sol/IERC721Enumerable.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"IERC721Metadata":{"0.8.20":{"default":{"path":"IERC721.sol/IERC721Metadata.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"IERC721.sol/IERC721Metadata.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}},"IERC721TokenReceiver":{"0.8.20":{"default":{"path":"IERC721.sol/IERC721TokenReceiver.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"IERC721.sol/IERC721TokenReceiver.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/interfaces/IMulticall3.sol":{"lastModificationDate":1731682261000,"contentHash":"7b131ca1ca32ef6378b7b9ad5488b901","sourceName":"lib/forge-std/src/interfaces/IMulticall3.sol","imports":[],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"IMulticall3":{"0.8.20":{"default":{"path":"IMulticall3.sol/IMulticall3.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"IMulticall3.sol/IMulticall3.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/mocks/MockERC20.sol":{"lastModificationDate":1731682261000,"contentHash":"8e14d63e81e1d54dbc2d44df38ae9dec","sourceName":"lib/forge-std/src/mocks/MockERC20.sol","imports":["lib/forge-std/src/interfaces/IERC20.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"MockERC20":{"0.8.20":{"default":{"path":"MockERC20.sol/MockERC20.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"MockERC20.sol/MockERC20.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/mocks/MockERC721.sol":{"lastModificationDate":1731682261000,"contentHash":"e91cd9dba7f88f03710c56a347d89d1e","sourceName":"lib/forge-std/src/mocks/MockERC721.sol","imports":["lib/forge-std/src/interfaces/IERC165.sol","lib/forge-std/src/interfaces/IERC721.sol"],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"MockERC721":{"0.8.20":{"default":{"path":"MockERC721.sol/MockERC721.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"MockERC721.sol/MockERC721.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/forge-std/src/safeconsole.sol":{"lastModificationDate":1731682261000,"contentHash":"1445aa2f47000e212173e0cefd6c7a77","sourceName":"lib/forge-std/src/safeconsole.sol","imports":[],"versionRequirement":">=0.6.2, <0.9.0","artifacts":{"safeconsole":{"0.8.20":{"default":{"path":"safeconsole.sol/safeconsole.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"safeconsole.sol/safeconsole.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol":{"lastModificationDate":1731688624000,"contentHash":"267d92fe4de67b1bdb3302c08f387dbf","sourceName":"lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol","imports":[],"versionRequirement":"^0.8.20","artifacts":{"IERC1155Errors":{"0.8.20":{"default":{"path":"draft-IERC6093.sol/IERC1155Errors.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}}},"IERC20Errors":{"0.8.20":{"default":{"path":"draft-IERC6093.sol/IERC20Errors.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}}},"IERC721Errors":{"0.8.20":{"default":{"path":"draft-IERC6093.sol/IERC721Errors.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}}}},"seenByCompiler":true},"lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol":{"lastModificationDate":1731688624000,"contentHash":"b7c1bc581041679d3cedd8fd2d956d15","sourceName":"lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol","imports":["lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol","lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol","lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol","lib/openzeppelin-contracts/contracts/utils/Context.sol"],"versionRequirement":"^0.8.20","artifacts":{"ERC20":{"0.8.20":{"default":{"path":"ERC20.sol/ERC20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}}}},"seenByCompiler":true},"lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol":{"lastModificationDate":1731688624000,"contentHash":"8f19f64d2adadf448840908bbaf431c8","sourceName":"lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol","imports":[],"versionRequirement":"^0.8.20","artifacts":{"IERC20":{"0.8.20":{"default":{"path":"ERC20/IERC20.sol/IERC20.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"ERC20/IERC20.sol/IERC20.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol":{"lastModificationDate":1731688624000,"contentHash":"794db3115001aa372c79326fcfd44b1f","sourceName":"lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol","imports":["lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol"],"versionRequirement":"^0.8.20","artifacts":{"IERC20Metadata":{"0.8.20":{"default":{"path":"IERC20Metadata.sol/IERC20Metadata.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}}}},"seenByCompiler":true},"lib/openzeppelin-contracts/contracts/utils/Context.sol":{"lastModificationDate":1731688624000,"contentHash":"67bfbc07588eb8683b3fd8f6f909563e","sourceName":"lib/openzeppelin-contracts/contracts/utils/Context.sol","imports":[],"versionRequirement":"^0.8.20","artifacts":{"Context":{"0.8.20":{"default":{"path":"Context.sol/Context.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}}}},"seenByCompiler":true},"script/Counter.s.sol":{"lastModificationDate":1731690067000,"contentHash":"a3f39f45f6d251978d0155b376261aca","sourceName":"script/Counter.s.sol","imports":["lib/forge-std/src/Base.sol","lib/forge-std/src/Script.sol","lib/forge-std/src/StdChains.sol","lib/forge-std/src/StdCheats.sol","lib/forge-std/src/StdJson.sol","lib/forge-std/src/StdMath.sol","lib/forge-std/src/StdStorage.sol","lib/forge-std/src/StdStyle.sol","lib/forge-std/src/StdUtils.sol","lib/forge-std/src/Vm.sol","lib/forge-std/src/console.sol","lib/forge-std/src/console2.sol","lib/forge-std/src/interfaces/IERC165.sol","lib/forge-std/src/interfaces/IERC20.sol","lib/forge-std/src/interfaces/IERC721.sol","lib/forge-std/src/interfaces/IMulticall3.sol","lib/forge-std/src/mocks/MockERC20.sol","lib/forge-std/src/mocks/MockERC721.sol","lib/forge-std/src/safeconsole.sol","src/Counter.sol"],"versionRequirement":"^0.8.13","artifacts":{"CounterScript":{"0.8.28":{"default":{"path":"Counter.s.sol/CounterScript.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"src/Counter.sol":{"lastModificationDate":1731682260000,"contentHash":"ae6c800a2b4c57768024d6e9423d39e8","sourceName":"src/Counter.sol","imports":[],"versionRequirement":"^0.8.13","artifacts":{"Counter":{"0.8.20":{"default":{"path":"Counter.sol/Counter.0.8.20.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"Counter.sol/Counter.0.8.28.json","build_id":"b6105d297d887584ea72c41d7bab18d2"}}}},"seenByCompiler":true},"src/IExerciceSolution.sol":{"lastModificationDate":1740559604420,"contentHash":"a73a95363c94d10497ae45e248ac4dee","sourceName":"src/IExerciceSolution.sol","imports":["lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol"],"versionRequirement":"^0.8.27","artifacts":{"IExerciceSolution":{"0.8.28":{"default":{"path":"IExerciceSolution.sol/IExerciceSolution.json","build_id":"d2b07062e67dfe48eae2e16f38c20464"}}}},"seenByCompiler":true},"src/MyToken.sol":{"lastModificationDate":1740559604420,"contentHash":"b5268aa6f81778f2cf4a98233ffab905","sourceName":"src/MyToken.sol","imports":["lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol","lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol","lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol","lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol","lib/openzeppelin-contracts/contracts/utils/Context.sol"],"versionRequirement":"=0.8.20","artifacts":{"MyToken":{"0.8.20":{"default":{"path":"MyToken.sol/MyToken.json","build_id":"1c78c9753c20e1cf91786d629885d106"}}}},"seenByCompiler":true},"test/Counter.t.sol":{"lastModificationDate":1731682260000,"contentHash":"9d959b237381565c33e0fda71b690f32","sourceName":"test/Counter.t.sol","imports":["lib/forge-std/src/Base.sol","lib/forge-std/src/StdAssertions.sol","lib/forge-std/src/StdChains.sol","lib/forge-std/src/StdCheats.sol","lib/forge-std/src/StdError.sol","lib/forge-std/src/StdInvariant.sol","lib/forge-std/src/StdJson.sol","lib/forge-std/src/StdMath.sol","lib/forge-std/src/StdStorage.sol","lib/forge-std/src/StdStyle.sol","lib/forge-std/src/StdToml.sol","lib/forge-std/src/StdUtils.sol","lib/forge-std/src/Test.sol","lib/forge-std/src/Vm.sol","lib/forge-std/src/console.sol","lib/forge-std/src/console2.sol","lib/forge-std/src/interfaces/IERC165.sol","lib/forge-std/src/interfaces/IERC20.sol","lib/forge-std/src/interfaces/IERC721.sol","lib/forge-std/src/interfaces/IMulticall3.sol","lib/forge-std/src/mocks/MockERC20.sol","lib/forge-std/src/mocks/MockERC721.sol","lib/forge-std/src/safeconsole.sol","src/Counter.sol"],"versionRequirement":"^0.8.13","artifacts":{"CounterTest":{"0.8.20":{"default":{"path":"Counter.t.sol/CounterTest.json","build_id":"6c2cdc1a1411227ab5628a9a92129ad8"}},"0.8.28":{"default":{"path":"test/Counter.t.sol/CounterTest.json","build_id":"7d9513b2db071d394162d868f12d1c26"}}}},"seenByCompiler":true}},"builds":["1c78c9753c20e1cf91786d629885d106","6c2cdc1a1411227ab5628a9a92129ad8","7d9513b2db071d394162d868f12d1c26","b6105d297d887584ea72c41d7bab18d2","d2b07062e67dfe48eae2e16f38c20464"],"profiles":{"default":{"solc":{"optimizer":{"enabled":false,"runs":200},"metadata":{"useLiteralContent":false,"bytecodeHash":"ipfs","appendCBOR":true},"outputSelection":{"*":{"*":["abi","evm.bytecode.object","evm.bytecode.sourceMap","evm.bytecode.linkReferences","evm.deployedBytecode.object","evm.deployedBytecode.sourceMap","evm.deployedBytecode.linkReferences","evm.deployedBytecode.immutableReferences","evm.methodIdentifiers","metadata"]}},"evmVersion":"cancun","viaIR":false,"libraries":{}},"vyper":{"evmVersion":"cancun","outputSelection":{"*":{"*":["abi","evm.bytecode","evm.deployedBytecode"]}}}}}}
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/abdihassan/Defi/contracts/Lock.sol": {
+      "lastModificationDate": 1742374581130,
+      "contentHash": "02f155efc448a1df3d30dbc95c3043aa",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "/Users/abdihassan/Defi/contracts/StudentToken.sol": {
+      "lastModificationDate": 1742379121906,
+      "contentHash": "f7c76fb6d24e9bdc51edbd7e7815eaba",
+      "sourceName": "contracts/StudentToken.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+        "@openzeppelin/contracts/access/Ownable.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "StudentToken"
+      ]
+    },
+    "/Users/abdihassan/Defi/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+      "lastModificationDate": 1742374464702,
+      "contentHash": "301fed494a57e27be4323bdff2d054bf",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IERC20.sol",
+        "./extensions/IERC20Metadata.sol",
+        "../../utils/Context.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC20"
+      ]
+    },
+    "/Users/abdihassan/Defi/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+      "lastModificationDate": 1742374464699,
+      "contentHash": "a06a83834de6f8eb27f6ed608d030ac2",
+      "sourceName": "@openzeppelin/contracts/utils/Context.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context"
+      ]
+    },
+    "/Users/abdihassan/Defi/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+      "lastModificationDate": 1742374464708,
+      "contentHash": "5f4c7678e2e69875dbd2ec01d3d288c1",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IERC20"
+      ]
+    },
+    "/Users/abdihassan/Defi/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+      "lastModificationDate": 1742374464708,
+      "contentHash": "5e82817b39b46b54032effefa77b2bd9",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../IERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IERC20Metadata"
+      ]
+    },
+    "/Users/abdihassan/Defi/contracts/youcontract.sol": {
+      "lastModificationDate": 1740558800142,
+      "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
+      "sourceName": "contracts/youcontract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "/Users/abdihassan/Defi/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
+      "lastModificationDate": 1742374464709,
+      "contentHash": "cbba874af15bc1c65a1c82aebec1a0fe",
+      "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../utils/Context.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Ownable"
+      ]
+    }
+  }
+}
